@@ -1,8 +1,55 @@
-O que é o Microsoft Pilot?????
+# Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
-O Microsoft Copilot permite a utilização da IA Generativa para vários propósitos. Este estudo demonstrará como acessar esta ferramenta e usufruir de algumas funcionalidades.
+## Descrição do Projeto
 
-### Conhecendo a interface inicial do Microsoft Copilot
+Este projeto é um dos laboratórios do Bootcamp [Microsoft Azure AI Fundamentals](https://web.dio.me/track/microsoft-azure-ai-fundamentals), promovido em parceria entre a Microsoft e a Dio.me.
+
+Os alunos deste bootcamp tem, como principal objetivo, se preparar para o exame de certificação Microsoft AI-900, domine conceitos como visão computacional, classificação inteligente de imagem e inteligência de documentos com IA, enquanto se familiariza com as tecnologias da Microsoft Azure.
+
+Este desafio é o de número 5 e consiste na execução prática de 3 exercícios, relacionados aos seguintes temas:
+
+1) [LAB 1: AI Com Microsoft Copilot](http://aka.ms/ai900-bing-copilot): explorar IA Generativa através do Microsoft Copilot
+2) [LAB 2: Azure OpenAI](http://aka.ms/ai900-azure-openai): explorar o Serviço OpenAI do Azure e o utilizar para implantar e experimentar modelos de IA generativos
+3) [LAB 3: Filtros de Conteúdo Com Azure OpenAI](http://aka.ms/ai900-content-filters): explorar o efeito dos filtros de conteúdo padrão no Azure OpenAI
+
+<br>
+
+> [!NOTE]
+> Este projeto foi desenvolvido utilizando-se uma subscrição pessoal do Azure.
+> 
+> Até a data de conclusão deste projeto (09/Março/2023), a Microsoft limitava o uso do Azure Open IA para empresas.
+> 
+> Solicitei o acesso através do [Formulário 'Request Access to Azure OpenAI Service'](https://aka.ms/oaiapply), porém o mesmo foi recusado justamente pelo fato da minha Microsoft Azure Subscription estar associada a uma conta pessoal e não corporativa.
+> 
+> Por esse motivo, infelizmente, não foi possível realizar os LABs 2 e 3 deste projeto
+
+<br>
+
+## Acessos necessários
+
+Para conseguir realizar estes laboratórios, são necessários:
+
+- [Conta Microsoft](https://account.microsoft.com/account/Account)
+- [Subscrição do Microsoft Azure](https://azure.microsoft.com/)
+
+<br>
+
+## LAB 1: Introdução
+
+O Microsoft Copilot é um assistente de inteligência artificial que pode auxiliar em diversas tarefas e funções nos aplicativos da Microsoft.
+
+Ele utiliza a tecnologia GPT-4 e a busca do Bing para fornecer respostas relevantes e úteis.
+
+O Microsoft Copilot foi lançado em março de 2023 e tem suporte ao pacote do Microsoft 365, ao Edge e ao Windows 11.
+
+Ele pode criar documentos, planilhas, apresentações, e-mails, bate-papos e muito mais a partir de comandos de texto ou voz. Além disso, pode analisar dados, gerar imagens, editar vídeos, sugerir músicas e ativar recursos no sistema operacional.
+
+Neste estudo, foram abordas as funções de geração de texto, imagens e códigos a partir de linguagem natural.
+
+<br>
+
+## LAB 1: Conhecendo a interface inicial do Microsoft Copilot
+
 1) O Copilot pode ser acessado através do link [copilot.microsoft.com](https://copilot.microsoft.com/?azure-portal=true), utilizando sua conta Microsoft pessoal
 
 2) O Microsoft Copilot usa IA generativa para aprimorar os resultados de pesquisa do Bing. O que isso significa é que, ao contrário da pesquisa isolada, que retorna conteúdo existente, o Microsoft Copilot pode reunir novas respostas com base na modelagem de linguagem natural e nas informações da Web
@@ -24,7 +71,8 @@ Nas próximas seções, serão exploradas 3 funções bastante úteis do Copilot
 
 <br>
 
-### Utilizando prompts para geração de respostas
+## LAB 1: Utilizando prompts para geração de respostas
+
 Este á função mais amplamente utilizada no Copilot e, também, em outras ferramentas de IA Generativa.
 
 Trata-se da utilização de prompts para realização de pesquisas por meio de conversas, por meio de linguagem natural, se tornando uma alternativa bem mais avançada e amigável em relação aos motores de buscas convencionais, como Bing e Google, por exemplo.
@@ -70,7 +118,8 @@ A geração de textos ocorre da seguinte forma:
 
 <br>
 
-### Utilizando prompts para geração de imagens
+## LAB 1: Utilizando prompts para geração de imagens
+
 Outra função bastante interessante no uso do Copilot é a geração de imagens a partir de prompts.
 
 Este recurso pode ser utilizado tanto para fins recreativos como para demandas do dia-a-dia, inclusive profissionais.
@@ -102,7 +151,8 @@ A geração de textos ocorre da seguinte forma:
 
 <br>
 
-### Utilizando prompts para geração de códigos
+## LAB 1: Utilizando prompts para geração de códigos
+
 Por fim, e não mais importante, o Copilot traz uma função que auxilia os desenvolvedores na criação de códigos de programação.
 
 Esta opção pode ser muito útil durante a codificação, pois auxilia o desenvolvedor na construção e ajustes de códigos das mais variadas linguagens de programação
@@ -142,4 +192,16 @@ Esta opção pode ser muito útil durante a codificação, pois auxilia o desenv
    objeto.metodo2()
    ~~~
 
+<br>
 
+## LAB 1: Conclusão
+
+O Microsoft Copilot é uma ferramenta revolucionária que transforma a maneira como interagimos com a tecnologia.
+
+Suas capacidades de geração de texto, imagens e códigos a partir de linguagem natural abrem novos horizontes para a programação e a comunicação. Através de sua inteligência artificial avançada, o Copilot não apenas facilita a vida dos programadores, mas também torna a tecnologia mais acessível para todos.
+
+No entanto, como qualquer tecnologia emergente, é importante lembrar que o Copilot é uma ferramenta para auxiliar e não substituir o julgamento humano.
+
+À medida que continuamos a explorar suas possibilidades, devemos também considerar as implicações éticas e de privacidade.
+
+O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jornada.

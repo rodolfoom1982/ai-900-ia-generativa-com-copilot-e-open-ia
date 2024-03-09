@@ -35,6 +35,7 @@ Trata-se da utilização de prompts para realização de pesquisas por meio de c
 >
 > ***Threads***: (linhas de execução): São sequências de instruções que fazem parte de um processo principal
 
+A geração de textos ocorre da seguinte forma:
 - Digite um *prompt* e pressione **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
    ```
    Me diga 3 prós e 3 contras de viajar de motorhome pelo Brasil
@@ -67,10 +68,37 @@ Trata-se da utilização de prompts para realização de pesquisas por meio de c
 - Pro fim, vale citar que, tanto na interface do **NOTEBOOK** quanto na interce **COPILOT**, ao invés de digitar um prompt, você pode ditá-lo, utilizando o ícone de microfone:
    >![alt text](readmeFiles/images/009.png)
 
+<br>
 
-![alt text](readmeFiles/images/010.png)
-![alt text](readmeFiles/images/011.png)
-![alt text](readmeFiles/images/012.png)
+### Utilizando prompts para geração de imagens
+Outra função bastante interessante no uso do Copilot é a geração de imagens a partir de prompts.
+
+Este recurso pode ser utilizado tanto para fins recreativos como para demandas do dia-a-dia, inclusive profissionais.
+
+Eis como gerar as imagens:
+
+A geração de textos ocorre da seguinte forma:
+- Tal qual ocorre na geração de textos, digite um *prompt* e pressione **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
+   ```
+   Crie uma imagem para ser utilizada no jogo Forza Horizon 5, sendo os carros uma VW Kombi apostando
+   corrida com um VW Beatle. Como pano de fundo, coloque uma estrada à beira-mar.
+   ```
+
+- Como se trata de um prompt com fins de recreação, foi utilizado o estilo de conversação **Criativo**, permitindo que a pesquisa pudesse "viajar" um pouco. Estas foram as imagens geradas:
+   >![alt text](readmeFiles/images/010.png)
+
+
+- Note que, no rodapé da imagem, aparece a "Powered by DALL-E". Isto ocorre devido ao fato do Copilot utilizar o DALL-E para a geração de imagens.
+   > O ***DALL-E*** é uma rede rede neural treinada pela OpenAI com base em modelos de linguagem grandes (LLM) e que cria imagens a partir de legendas de texto para uma ampla gama de conceitos expressáveis em linguagem natural.
+
+- Outra informação que é trazida no rodapé é a palavra **Designer**. Ela indica qual GPT o Copilot utilizou para gerar a imagem
+   > ***GPT*** (*Generative Pre-Trained Transformer* ou Transformador Pré-treinado Generativo): São modelos de predição de linguagem baseados em redes neurais construídos na arquitetura *Transformer*. Eles analisam consultas em linguagem natural, conhecidas como solicitações, e preveem a melhor resposta possível com base em sua compreensão da linguagem.
+
+- Na data de hoje (09/Mar/2023), que é quando este projeto foi escrito, o Copilot conta com 5 GPTs diferentes, com propostas diferentes, conforme print a seguir:
+   > ![alt text](readmeFiles/images/011.png)
+
+- Além disso, é possível utilizar *plugins*, desenvolvidos por terceiros, para melhorar/especializar o contexto dos prompts, limitados a 3 por conversa. O usuário deve ter consciência de que o teor das conversas serão sempre compartilhadas com os *plugins* utilizados. Segue um print de exemplo de alguns destes *plugins* disponíveis:
+   > ![alt text](readmeFiles/images/012.png)
 
 
 

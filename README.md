@@ -100,50 +100,46 @@ A geração de textos ocorre da seguinte forma:
 - Além disso, é possível utilizar *plugins*, desenvolvidos por terceiros, para melhorar/especializar o contexto dos prompts, limitados a 3 por conversa. O usuário deve ter consciência de que o teor das conversas serão sempre compartilhadas com os *plugins* utilizados. Segue um print de exemplo de alguns destes *plugins* disponíveis:
    > ![alt text](readmeFiles/images/012.png)
 
+<br>
+
+### Utilizando prompts para geração de códigos
+Por fim, e não mais importante, o Copilot traz uma função que auxilia os desenvolvedores na criação de códigos de programação.
+
+Esta opção pode ser muito útil durante a codificação, pois auxilia o desenvolvedor na construção e ajustes de códigos das mais variadas linguagens de programação
+
+- Segue um exemplo de utilização desta função:
+
+   ```
+   Escreva um código em Python, contendo uma classe genérica, com atibutos e métodos genéricos, além
+   de um objeto instanciando-a. Este código será utilizado pelo usuário como modelo para criar suas
+   próprias classes.
+   ```
+
+- Além de retornar a sintaxe, o Copilot traz uma breve descrição de como utilizar o código gerado:
+   > ![alt text](readmeFiles/images/013.png)
 
 
+- Segue o código retornado, caso queira utilizá-lo em algum momento:
+
+   ~~~Python
+   class MinhaClasse:
+       def __init__(self, atributo1, atributo2):
+           self.atributo1 = atributo1
+           self.atributo2 = atributo2
+   
+       def metodo1(self):
+           print(f'Método 1 chamado. Atributo 1: {self.atributo1}')
+   
+       def metodo2(self):
+           print(f'Método 2 chamado. Atributo 2: {self.atributo2}')
 
 
-```
-
-```
-
-
-```
-Crie uma imagem para ser utilizada no jogo Forza Horizon 5, sendo os carros uma VW Kombi apostando
-corrida com um VW Beatle. Como pano de fundo, coloque uma estrada à beira-mar.
-```
+   # Instanciando a classe
+   objeto = MinhaClasse('valor1', 'valor2')
+   
+   # Chamando os métodos
+   objeto.metodo1()
+   objeto.metodo2()
+   ~~~
 
 
-```
-Escreva um código em Python, contendo uma classe genérica, com atibutos e métodos genéricos, além
-de um objeto instanciando-a. Este código será utilizado pelo usuário como modelo para criar suas
-próprias classes.
-```
-
-
-
-
-
-~~~Python
-class MinhaClasse:
-    def __init__(self, atributo1, atributo2):
-        self.atributo1 = atributo1
-        self.atributo2 = atributo2
-
-    def metodo1(self):
-        print(f'Método 1 chamado. Atributo 1: {self.atributo1}')
-
-    def metodo2(self):
-        print(f'Método 2 chamado. Atributo 2: {self.atributo2}')
-
-
-# Instanciando a classe
-objeto = MinhaClasse('valor1', 'valor2')
-
-# Chamando os métodos
-objeto.metodo1()
-objeto.metodo2()
-~~~
-
-![alt text](readmeFiles/images/013.png)

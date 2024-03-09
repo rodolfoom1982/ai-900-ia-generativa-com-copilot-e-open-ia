@@ -1,6 +1,6 @@
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
-![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído-green)
+![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(09/Mar/2024)-green)
 &emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
 ![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
 &emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
@@ -41,7 +41,7 @@ Este desafio é o de número 5 e consiste na execução prática de 3 exercício
 > [!NOTE]
 > Este projeto foi desenvolvido utilizando-se uma subscrição pessoal do Azure.
 > 
-> Até a data de conclusão deste projeto (09/Março/2023), a Microsoft limitava o uso do Azure Open IA para empresas.
+> Até a data de conclusão deste projeto (09/Março/2024), a Microsoft limitava o uso do Azure Open IA para empresas.
 > 
 > Solicitei o acesso através do [Formulário 'Request Access to Azure OpenAI Service'](https://aka.ms/oaiapply), porém o mesmo foi recusado justamente pelo fato da minha Microsoft Azure Subscription estar associada a uma conta pessoal e não corporativa.
 > 
@@ -167,7 +167,7 @@ A geração de textos ocorre da seguinte forma:
 - Outra informação que é trazida no rodapé é a palavra **Designer**. Ela indica qual GPT o Copilot utilizou para gerar a imagem
    > ***GPT*** (*Generative Pre-Trained Transformer* ou Transformador Pré-treinado Generativo): São modelos de predição de linguagem baseados em redes neurais construídos na arquitetura *Transformer*. Eles analisam consultas em linguagem natural, conhecidas como solicitações, e preveem a melhor resposta possível com base em sua compreensão da linguagem.
 
-- Na data de hoje (09/Mar/2023), que é quando este projeto foi escrito, o Copilot conta com 5 GPTs diferentes, com propostas diferentes, conforme print a seguir:
+- Na data de hoje (09/Mar/2024), que é quando este projeto foi escrito, o Copilot conta com 5 GPTs diferentes, com propostas diferentes, conforme print a seguir:
    > ![alt text](readmeFiles/images/011.png)
 
 - Além disso, é possível utilizar *plugins*, desenvolvidos por terceiros, para melhorar/especializar o contexto dos prompts, limitados a 3 por conversa. O usuário deve ter consciência de que o teor das conversas serão sempre compartilhadas com os *plugins* utilizados. Segue um print de exemplo de alguns destes *plugins* disponíveis:

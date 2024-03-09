@@ -1,9 +1,28 @@
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
+![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído-green)
+&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
+![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
+&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
+![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)
+![Static Badge](https://img.shields.io/badge/OpenIA-orange)
+
+<br>
+
 ## Índice
 
-[Acessos necessários](#Acessos-necessários)
+- [Acessos necessários](#Acessos-necessários)
+- [Descrição do Projeto](#Descrição-do-Projeto)
+- [Acessos necessários](#Acessos-necessários)
+- [Introdução](#Introdução)
+- [Conhecendo a interface inicial do Microsoft Copilot](#Conhecendo-a-interface-inicial-do-Microsoft-Copilot)
+- [Utilizando prompts para geração de respostas](#Utilizando-prompts-para-geração-de-respostas)
+- [Utilizando prompts para geração de imagens](#Utilizando-prompts-para-geração-de-imagens)
+- [Utilizando prompts para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
+- [Conclusão](#Conclusão)
+- [Certificados](#Certificados)
 
+<br>
 
 ## Descrição do Projeto
 
@@ -39,7 +58,7 @@ Para conseguir realizar estes laboratórios, são necessários:
 
 <br>
 
-## LAB 1: Introdução
+## Introdução
 
 O Microsoft Copilot é um assistente de inteligência artificial que pode auxiliar em diversas tarefas e funções nos aplicativos da Microsoft.
 
@@ -53,7 +72,7 @@ Neste estudo, foram abordas as funções de geração de texto, imagens e códig
 
 <br>
 
-## LAB 1: Conhecendo a interface inicial do Microsoft Copilot
+## Conhecendo a interface inicial do Microsoft Copilot
 
 1) O Copilot pode ser acessado através do link [copilot.microsoft.com](https://copilot.microsoft.com/?azure-portal=true), utilizando sua conta Microsoft pessoal
 
@@ -76,7 +95,7 @@ Nas próximas seções, serão exploradas 3 funções bastante úteis do Copilot
 
 <br>
 
-## LAB 1: Utilizando prompts para geração de respostas
+## Utilizando prompts para geração de respostas
 
 Este á função mais amplamente utilizada no Copilot e, também, em outras ferramentas de IA Generativa.
 
@@ -123,7 +142,7 @@ A geração de textos ocorre da seguinte forma:
 
 <br>
 
-## LAB 1: Utilizando prompts para geração de imagens
+## Utilizando prompts para geração de imagens
 
 Outra função bastante interessante no uso do Copilot é a geração de imagens a partir de prompts.
 
@@ -156,7 +175,7 @@ A geração de textos ocorre da seguinte forma:
 
 <br>
 
-## LAB 1: Utilizando prompts para geração de códigos
+## Utilizando prompts para geração de códigos
 
 Por fim, e não mais importante, o Copilot traz uma função que auxilia os desenvolvedores na criação de códigos de programação.
 
@@ -199,7 +218,7 @@ Esta opção pode ser muito útil durante a codificação, pois auxilia o desenv
 
 <br>
 
-## LAB 1: Conclusão
+## Conclusão
 
 O Microsoft Copilot é uma ferramenta revolucionária que transforma a maneira como interagimos com a tecnologia.
 
@@ -210,3 +229,11 @@ No entanto, como qualquer tecnologia emergente, é importante lembrar que o Copi
 À medida que continuamos a explorar suas possibilidades, devemos também considerar as implicações éticas e de privacidade.
 
 O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jornada.
+
+<br>
+
+## Certificados
+
+Aqui serão inseridos os certificados do Bootcamp.
+
+Sendo aprovado no Microsoft AI-900, o badge referente também será incluído aqui.

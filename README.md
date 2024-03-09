@@ -12,7 +12,7 @@ O Microsoft Copilot permite a utilização da IA Generativa para vários propós
 
 4) O Copilot permite trabalhar com 3 tipos de ***estilos de conversas***. Cada estilo retorna um esquema de cor, uma saudação e dicas iniciais de prompt diferentes. Os estilos são:
     * **Mais Criativo** (recomendado para respostas imaginativas e inovadoras, embora possam faltar em precisão):
-        >![alt text](readmeFiles/images/001.png)
+        >![alt text](readmeFiles/images/001A.png)
 
     * **Mais Balanceado** (recomendado para saídas altamente detalhadas e precisas, mas potencialmente menos criativas):
         >![alt text](readmeFiles/images/001B.png)
@@ -25,16 +25,22 @@ Nas próximas seções, serão exploradas 3 funções bastante úteis do Copilot
 <br>
 
 ### Utilizando prompts para geração de respostas
-- Digite um *prompt* e pressione em **<kbd>Enter</kbd>**
+Este á função mais amplamente utilizada no Copilot e, também, em outras ferramentas de IA Generativa.
 
-   > **Nota**: Um *prompt*, dentrod da **Engenharia de *Prompts***, é um texto em linguagem natural que solicita que a IA generativa execute uma tarefa específica
+Trata-se da utilização de prompts para realização de pesquisas por meio de conversas, por meio de linguagem natural, se tornando uma alternativa bem mais avançada e amigável em relação aos motores de buscas convencionais, como Bing e Google, por exemplo.
+> [!NOTE]
+> Dois termos serão muito utilizados nesta seção (e nas seguintes), dentro do contexto de IA Generativa e merecem uma ligeira explicação. São eles:
+>
+> ***Prompt*** (Comumente relacionado à **Engenharia de *Prompts***): É um texto em linguagem natural que solicita que a IA generativa execute uma tarefa específica
+>
+> ***Threads***: (linhas de execução): São sequências de instruções que fazem parte de um processo principal
 
-- Neste exemplo, o *prompt* utilizado foi:
+- Digite um *prompt* e pressione **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
    ```
    Me diga 3 prós e 3 contras de viajar de motorhome pelo Brasil
    ```
 
-- Para esta pesquisa, foi utilizado o estilo de conversação **Preciso**, buscando um equilíbrio entre criatividade e precisão. Está foi a resposta gerada:
+- Para esta pesquisa, foi utilizado o estilo de conversação **Preciso**, buscando um equilíbrio entre criatividade e precisão. Esta foi a resposta gerada:
    > ![alt text](readmeFiles/images/002.png)
 
 - A reposta retorna marcadores que possuem links paras as fontes de dados que foram utilizadas na pesquisa:
@@ -44,8 +50,6 @@ Nas próximas seções, serão exploradas 3 funções bastante úteis do Copilot
    >![alt text](readmeFiles/images/004.png)
 
 - Ao clicar em uma destas sugestões, ele continua a conversa, aproveitando as *threads* anteriores, e somente para quando finaliza a pesquisa e/ou o usuário interrompe a execução, por meio da opção **Parar de Responder**:
-   >**Nota**: *Threads* (linhas de execução), dentro do contexto de **Engenharia de *Prompts***, são sequências de instruções que fazem parte de um processo principal
-   
    >![alt text](readmeFiles/images/005.png)
 
 - Digitando um novo *prompt* e pressionando **<kbd>Enter</kbd>**, a conversa também continua, utilizando do histórico de *threads* para a contextualização, como no exemplo abaixo:

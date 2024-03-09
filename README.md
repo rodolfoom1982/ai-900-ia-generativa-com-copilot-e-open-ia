@@ -1,5 +1,10 @@
 # Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
+## Índice
+
+[Acessos necessários](#Acessos-necessários)
+
+
 ## Descrição do Projeto
 
 Este projeto é um dos laboratórios do Bootcamp [Microsoft Azure AI Fundamentals](https://web.dio.me/track/microsoft-azure-ai-fundamentals), promovido em parceria entre a Microsoft e a Dio.me.

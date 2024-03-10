@@ -1,9 +1,9 @@
-# Explorando os Recursos de IA Generativa com Copilot e OpenAI
+# AI-900: Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
 ![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(09/Mar/2024)-green)
-&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
+![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
 ![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
-&emsp;&emsp;&emsp;![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
+![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)
 ![Static Badge](https://img.shields.io/badge/OpenIA-orange)
 
@@ -20,7 +20,7 @@
 - [Utilizando prompts para geração de imagens](#Utilizando-prompts-para-geração-de-imagens)
 - [Utilizando prompts para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
 - [Conclusão](#Conclusão)
-- [Certificados](#Certificados)
+- [Certificados e Certificações](#Certificados-e-Certificações)
 
 <br>
 
@@ -232,7 +232,7 @@ O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jorn
 
 <br>
 
-## Certificados
+## Certificados e Certificações
 
 Aqui serão inseridos os certificados do Bootcamp.
 

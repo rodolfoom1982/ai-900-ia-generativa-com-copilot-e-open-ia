@@ -1,8 +1,10 @@
 # AI-900: Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
 ![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(09/Mar/2024)-green)
+
 ![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
 ![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
+
 ![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)
 ![Static Badge](https://img.shields.io/badge/OpenIA-orange)

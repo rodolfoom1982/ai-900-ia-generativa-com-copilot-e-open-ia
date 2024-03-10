@@ -4,10 +4,15 @@
 
 ![Static Badge](https://img.shields.io/badge/Inteligência_Artificial_(IA)-blue)
 ![Static Badge](https://img.shields.io/badge/IA_Generativa-blue)
+![Static Badge](https://img.shields.io/badge/Geração_de_Respostas-blue)
+![Static Badge](https://img.shields.io/badge/Geração_de_Imagens-blue)
+![Static Badge](https://img.shields.io/badge/Geração_de_Códigos-blue)
 
 ![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)
 ![Static Badge](https://img.shields.io/badge/OpenIA-orange)
+![Static Badge](https://img.shields.io/badge/ChatGPT-orange)
+![Static Badge](https://img.shields.io/badge/Dall_E-orange)
 
 <br>
 

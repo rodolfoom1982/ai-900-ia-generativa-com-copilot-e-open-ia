@@ -18,7 +18,6 @@
 
 ## Índice
 
-- [Acessos necessários](#Acessos-necessários)
 - [Descrição do Projeto](#Descrição-do-Projeto)
 - [Acessos necessários](#Acessos-necessários)
 - [Introdução](#Introdução)

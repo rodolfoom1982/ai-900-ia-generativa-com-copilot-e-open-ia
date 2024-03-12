@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/Geração_de_Respostas-blue)
 ![Static Badge](https://img.shields.io/badge/Geração_de_Imagens-blue)
 ![Static Badge](https://img.shields.io/badge/Geração_de_Códigos-blue)
+![Static Badge](https://img.shields.io/badge/LLM-blue)
 
 ![Static Badge](https://img.shields.io/badge/Microsoft_Copilot-orange)
 ![Static Badge](https://img.shields.io/badge/Microsoft_Azure-orange)

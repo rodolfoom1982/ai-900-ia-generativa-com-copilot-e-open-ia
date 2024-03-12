@@ -23,9 +23,9 @@
 - [Acessos necessários](#Acessos-necessários)
 - [Introdução](#Introdução)
 - [Conhecendo a interface inicial do Microsoft Copilot](#Conhecendo-a-interface-inicial-do-Microsoft-Copilot)
-- [Utilizando prompts para geração de respostas](#Utilizando-prompts-para-geração-de-respostas)
-- [Utilizando prompts para geração de imagens](#Utilizando-prompts-para-geração-de-imagens)
-- [Utilizando prompts para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
+- [Utilizando *prompts* para geração de respostas](#Utilizando-prompts-para-geração-de-respostas)
+- [Utilizando *prompts* para geração de imagens](#Utilizando-prompts-para-geração-de-imagens)
+- [Utilizando *prompts* para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
 - [Conclusão](#Conclusão)
 - [Limpando o ambiente](#Limpando-o-ambiente)
 - [Certificados / Certificações Associados ao Projeto](#Certificados-/-Certificações-Associados-ao-Projeto)
@@ -85,10 +85,10 @@ Neste estudo, eu abordei as funções de geração de texto, imagens e códigos 
 
 2) O Microsoft Copilot usa IA generativa para aprimorar os resultados de pesquisa do Bing. Isso significa que, ao contrário da pesquisa isolada, que retorna conteúdo existente, o Microsoft Copilot pode reunir novas respostas com base na modelagem de linguagem natural e nas informações da Web
    
-3) Na parte inferior da tela, há uma janela do tipo ***Pergunte-me qualquer coisa***. À medida em que inseri prompts nesta janela, o Copilot usou todo o histórico de conversas para retornar as respostas.
+3) Na parte inferior da tela, há uma janela do tipo ***Pergunte-me qualquer coisa***. À medida em que inseri *prompts* nesta janela, o Copilot usou todo o histórico de conversas para retornar as respostas.
     >![alt text](readmeFiles/images/000.png)
 
-4) O Copilot permite trabalhar com 3 tipos de ***estilos de conversas***. Cada estilo retorna um esquema de cor, uma saudação e dicas iniciais de prompt diferentes. Os estilos são:
+4) O Copilot permite trabalhar com 3 tipos de ***estilos de conversas***. Cada estilo retorna um esquema de cor, uma saudação e dicas iniciais de *prompts* diferentes. Os estilos são:
     * **Mais Criativo** (recomendado para respostas imaginativas e inovadoras, embora possam falhar em precisão):
         >![alt text](readmeFiles/images/001A.png)
 
@@ -102,11 +102,11 @@ Nas próximas seções, serão exploradas 3 funções bastante úteis do Copilot
 
 <br>
 
-## Utilizando prompts para geração de respostas
+## Utilizando *prompts* para geração de respostas
 
 Este á função mais amplamente utilizada no Copilot e, também, em outras ferramentas de IA Generativa.
 
-Trata-se da utilização de prompts para realização de pesquisas por meio de conversas, por meio de linguagem natural, se tornando uma alternativa bem mais avançada e amigável em relação à utilização isolada dos motores de buscas convencionais, como Bing e Google, por exemplo.
+Trata-se da utilização de *prompts* para realização de pesquisas por meio de conversas, por meio de linguagem natural, se tornando uma alternativa bem mais avançada e amigável em relação à utilização isolada dos motores de buscas convencionais, como Bing e Google, por exemplo.
 > [!NOTE]
 > Dois termos serão muito utilizados nesta seção (e nas seguintes), dentro do contexto de IA Generativa, e merecem uma rápida explicação. São eles:
 >
@@ -144,14 +144,14 @@ Para realizar a geração de textos, procedi da seguinte forma:
 - Existe uma outra interface, dentro da ferramenta, na qual é possível avaliar o texto gerado, copiá-lo e/ou fazer o dowload. O nome dela é **NOTEBOOK**:
    >![alt text](readmeFiles/images/008.png)
 
-- Por fim, vale citar que, tanto na interface do **NOTEBOOK** quanto na interce **COPILOT**, ao invés de digitar um prompt, você pode ditá-lo, utilizando o ícone de microfone:
+- Por fim, vale citar que, tanto na interface do **NOTEBOOK** quanto na interce **COPILOT**, ao invés de digitar um *prompt*, você pode ditá-lo, utilizando o ícone de microfone:
    >![alt text](readmeFiles/images/009.png)
 
 <br>
 
-## Utilizando prompts para geração de imagens
+## Utilizando *prompts* para geração de imagens
 
-Outra função bastante interessante no uso do Copilot é a geração de imagens a partir de prompts.
+Outra função bastante interessante no uso do Copilot é a geração de imagens a partir de *prompts*.
 
 Este recurso pode ser utilizado tanto para fins recreativos como para demandas do dia-a-dia, inclusive profissionais.
 
@@ -162,7 +162,7 @@ Eis como gerar as imagens:
    corrida com um VW Beatle. Como pano de fundo, coloque uma estrada à beira-mar.
    ```
 
-- Como se trata de um prompt com fins recretivos, utilizei o estilo de conversação **Criativo**, permitindo que a pesquisa pudesse "viajar" um pouco, sem se preocupar com veracidade e precisão. Estas foram as imagens geradas:
+- Como se trata de um *prompt* com fins recretivos, utilizei o estilo de conversação **Criativo**, permitindo que a pesquisa pudesse "viajar" um pouco, sem se preocupar com veracidade e precisão. Estas foram as imagens geradas:
    >![alt text](readmeFiles/images/010.png)
 
 
@@ -180,7 +180,7 @@ Eis como gerar as imagens:
 
 <br>
 
-## Utilizando prompts para geração de códigos
+## Utilizando *prompts* para geração de códigos
 
 Por fim, e não mais importante nem menos empolgante, o Copilot traz uma função que auxilia os desenvolvedores na criação de códigos de programação.
 

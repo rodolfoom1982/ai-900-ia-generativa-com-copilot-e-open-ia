@@ -27,6 +27,7 @@
 - [Utilizando prompts para geração de imagens](#Utilizando-prompts-para-geração-de-imagens)
 - [Utilizando prompts para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
 - [Conclusão](#Conclusão)
+- [Limpando o ambiente](#Limpando-o-ambiente)
 - [Certificados / Certificações Associados ao Projeto](#Certificados-/-Certificações-Associados-ao-Projeto)
 
 <br>
@@ -58,10 +59,9 @@ Este desafio é o de número 5 do bootcamp e consiste na execução prática de 
 
 ## Acessos necessários
 
-Para realizar estes laboratórios, são necessários os seguintes acessos:
+Para realizar estes laboratórios, eu precisei criar uma [Subscrição do Microsoft Azure](https://azure.microsoft.com/)
 
-- [Conta Microsoft](https://account.microsoft.com/account/Account)
-- [Subscrição do Microsoft Azure](https://azure.microsoft.com/)
+A Microsoft permite criar uma subscrição de teste, na qual vários serviços podem ser experimentados gratuitamente por 12 meses, além de receber $200 para serem utilizados nos primeiros 30 dias.
 
 <br>
 
@@ -75,7 +75,7 @@ O Microsoft Copilot foi lançado em março de 2023 e tem suporte ao pacote do Mi
 
 Ele pode criar documentos, planilhas, apresentações, e-mails, bate-papos e muito mais a partir de comandos de texto ou voz. Além disso, pode analisar dados, gerar imagens, editar vídeos, sugerir músicas e ativar recursos no sistema operacional.
 
-Neste estudo, foram abordas as funções de geração de texto, imagens e códigos a partir de linguagem natural.
+Neste estudo, eu abordei as funções de geração de texto, imagens e códigos a partir de linguagem natural.
 
 <br>
 
@@ -85,7 +85,7 @@ Neste estudo, foram abordas as funções de geração de texto, imagens e códig
 
 2) O Microsoft Copilot usa IA generativa para aprimorar os resultados de pesquisa do Bing. Isso significa que, ao contrário da pesquisa isolada, que retorna conteúdo existente, o Microsoft Copilot pode reunir novas respostas com base na modelagem de linguagem natural e nas informações da Web
    
-3) Na parte inferior da tela, há uma janela do tipo ***Pergunte-me qualquer coisa***. À medida que você insere prompts nesta janela, o Copilot usa todo o histórico de conversas para retornar as respostas.
+3) Na parte inferior da tela, há uma janela do tipo ***Pergunte-me qualquer coisa***. À medida em que inseri prompts nesta janela, o Copilot usou todo o histórico de conversas para retornar as respostas.
     >![alt text](readmeFiles/images/000.png)
 
 4) O Copilot permite trabalhar com 3 tipos de ***estilos de conversas***. Cada estilo retorna um esquema de cor, uma saudação e dicas iniciais de prompt diferentes. Os estilos são:
@@ -114,25 +114,25 @@ Trata-se da utilização de prompts para realização de pesquisas por meio de c
 >
 > ***Threads***: (linhas de execução): São sequências de instruções que fazem parte de um processo principal
 
-Para realizar a geração de textos, proceda da seguinte forma:
-- Digite um *prompt* e pressione **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
+Para realizar a geração de textos, procedi da seguinte forma:
+- Digitei um *prompt* e pressionei **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
    ```
    Me diga 3 prós e 3 contras de viajar de motorhome pelo Brasil
    ```
 
-- Para esta pesquisa, foi utilizado o estilo de conversação **Preciso**, buscando um equilíbrio entre criatividade e precisão. Esta foi a resposta gerada:
+- Para esta pesquisa, utilizei o estilo de conversação **Preciso**, buscando um equilíbrio entre criatividade e precisão. Esta foi a resposta gerada:
    > ![alt text](readmeFiles/images/002.png)
 
-- A reposta retorna marcadores que possuem links paras as fontes de dados que foram utilizadas na pesquisa:
+- A reposta retornou marcadores que possuem links paras as fontes de dados que foram utilizadas na pesquisa:
    >![alt text](readmeFiles/images/003.png)
 
-- Além disso, o Copilot sugere novos *prompts*:
+- Além disso, o Copilot sugeriu novos *prompts*:
    >![alt text](readmeFiles/images/004.png)
 
-- Ao clicar em uma destas sugestões, ele continua a conversa, aproveitando as *threads* anteriores, e somente para a geração de informação quando finaliza a pesquisa e/ou o usuário interrompe a execução, por meio da opção **Parar de Responder**:
+- Ao clicar em uma destas sugestões, ele continuou a conversa, aproveitando as *threads* anteriores, e somente parou a geração de informação quando finalizou a pesquisa (ele interromperia també se eu pressionasse **Parar de Responder**):
    >![alt text](readmeFiles/images/005.png)
 
-- Digitando um novo *prompt* e pressionando **<kbd>Enter</kbd>**, a conversa também continua, utilizando-se do histórico de *threads* para a contextualização, como no exemplo abaixo:
+- Digitei um novo *prompt* e pressionei **<kbd>Enter</kbd>**. A conversa também continuou, utilizando-se do histórico de *threads* para a contextualização, como no exemplo abaixo:
    ```
    Qual destes é o mais barato?
    ``` 
@@ -156,23 +156,23 @@ Outra função bastante interessante no uso do Copilot é a geração de imagens
 Este recurso pode ser utilizado tanto para fins recreativos como para demandas do dia-a-dia, inclusive profissionais.
 
 Eis como gerar as imagens:
-- Tal qual ocorre na geração de textos, digite um *prompt* e pressione **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
+- Tal qual ocorre na geração de textos, digitei um *prompt* e pressionei **<kbd>Enter</kbd>**. Neste exemplo, o *prompt* utilizado foi:
    ```
    Crie uma imagem para ser utilizada no jogo Forza Horizon 5, sendo os carros uma VW Kombi apostando
    corrida com um VW Beatle. Como pano de fundo, coloque uma estrada à beira-mar.
    ```
 
-- Como se trata de um prompt com fins recretivos, foi utilizado o estilo de conversação **Criativo**, permitindo que a pesquisa pudesse "viajar" um pouco, sem se preocupar com veracidade e precisão. Estas foram as imagens geradas:
+- Como se trata de um prompt com fins recretivos, utilizei o estilo de conversação **Criativo**, permitindo que a pesquisa pudesse "viajar" um pouco, sem se preocupar com veracidade e precisão. Estas foram as imagens geradas:
    >![alt text](readmeFiles/images/010.png)
 
 
-- Note que, no rodapé da imagem, aparece a *tag* "*Powered by* DALL-E". Isto ocorre devido ao fato do Copilot utilizar o DALL-E para a geração de imagens.
+- Note que, no rodapé da imagem, apareceu a *tag* "*Powered by* DALL-E". Isto ocorre devido ao fato do Copilot utilizar o DALL-E para a geração de imagens.
    > O ***DALL-E*** é uma rede neural treinada pela OpenAI, com base em modelos de linguagem grandes (LLM), que cria imagens a partir de legendas de texto para uma ampla gama de conceitos expressáveis em linguagem natural.
 
-- Outra informação que é trazida no rodapé é a palavra **Designer**. Ela indica qual GPT o Copilot utilizou para gerar a imagem
+- Outra informação que retornou no rodapé foi a palavra **Designer**. Ela indica qual GPT o Copilot utilizou para gerar a imagem
    > ***GPT*** (*Generative Pre-Trained Transformer* ou Transformador Pré-treinado Generativo): São modelos de predição de linguagem baseados em redes neurais construídos na arquitetura *Transformer*. Eles analisam consultas em linguagem natural, conhecidas como solicitações, e preveem a melhor resposta possível com base em sua compreensão da linguagem.
 
-- Na data de hoje (09/Mar/2024), que é quando este projeto foi escrito, o Copilot conta com 5 GPTs diferentes, com propostas diferentes, conforme print a seguir:
+- Até a data em que este projeto foi concluído, o Copilot contava com 5 GPTs diferentes, com propostas diferentes, conforme print a seguir:
    > ![alt text](readmeFiles/images/011.png)
 
 - Além disso, é possível utilizar *plugins*, desenvolvidos por terceiros, para melhorar/especializar o contexto dos *prompts*, limitados a 3 por conversa. O usuário deve ter consciência de que o teor das conversas serão sempre compartilhadas com os *plugins* utilizados. Segue um print de exemplo de alguns destes *plugins* disponíveis:
@@ -189,12 +189,12 @@ Esta opção pode ser muito útil durante a codificação, pois suporta o desenv
 - Segue um exemplo de utilização desta função:
 
    ```
-   Escreva um código em Python, contendo uma classe genérica, com atibutos e métodos genéricos, além
+   Escreva um código em Python, contendo uma classe genérica, com atributos e métodos genéricos, além
    de um objeto instanciando-a. Este código será utilizado pelo usuário como modelo para criar suas
    próprias classes.
    ```
 
-- Além de retornar a sintaxe, o Copilot traz uma breve descrição de como aplicar o código gerado:
+- Além de retornar a sintaxe, o Copilot trouxe uma breve descrição de como aplicar o código gerado:
    > ![alt text](readmeFiles/images/013.png)
 
 
@@ -234,6 +234,13 @@ No entanto, como qualquer tecnologia emergente, é importante lembrar que o Copi
 À medida que continuarmos a explorar suas possibilidades, devemos também considerar as implicações éticas e de privacidade.
 
 O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jornada.
+
+<br>
+
+## Limpando o ambiente
+
+> [!WARNING]
+> Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription
 
 <br>
 

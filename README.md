@@ -246,4 +246,8 @@ O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jorn
 
 ## Certificados e Certificações Associados ao Projeto
 
+![](https://github.com/rodolfoom1982/meus-certificados/blob/main/dio-bootcamp-ai-900-azure-ai-fundamentals/fundamentos-de-ia-generativa.png)
+
+![](https://github.com/rodolfoom1982/meus-certificados/blob/main/dio-bootcamp-ai-900-azure-ai-fundamentals/fundamentos-do-servico-azure-open-ai.png)
+
 ![](https://github.com/rodolfoom1982/meus-certificados/blob/main/dio-bootcamp-ai-900-azure-ai-fundamentals/explorando-recursos-de-ia-generativa-com-copilot-e-openAi.png)

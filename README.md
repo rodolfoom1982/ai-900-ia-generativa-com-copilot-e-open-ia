@@ -28,7 +28,7 @@
 - [Utilizando *prompts* para geração de códigos](#Utilizando-prompts-para-geração-de-códigos)
 - [Conclusão](#Conclusão)
 - [Limpando o ambiente](#Limpando-o-ambiente)
-- [Certificados / Certificações Associados ao Projeto](#Certificados-/-Certificações-Associados-ao-Projeto)
+- [Certificados e Certificações Associados ao Projeto](#Certificados-e-Certificações-Associados-ao-Projeto)
 
 <br>
 
@@ -244,6 +244,6 @@ O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jorn
 
 <br>
 
-## Certificados / Certificações Associados ao Projeto
+## Certificados e Certificações Associados ao Projeto
 
 ![](https://github.com/rodolfoom1982/meus-certificados/blob/main/dio-bootcamp-ai-900-azure-ai-fundamentals/explorando-recursos-de-ia-generativa-com-copilot-e-openAi.png)
